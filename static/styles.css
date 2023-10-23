@@ -1,9 +1,17 @@
 h1 {
     font-family: 'URW Chancery L', 'cursive';
     font-style: oblique;
+    color: whitesmoke;
+    
+    text-align: center;
+
+    width: 25%;
+    height: 50%;
+    margin: auto;
+    margin-top: 10%;
+    padding: 2% 5%;
 }
 
 body {
     background-image: url("background.png");
-    color: purple;
 }
