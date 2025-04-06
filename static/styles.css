@@ -85,8 +85,14 @@ p {
 .projectDesc {
     margin: 10px;
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 300;
 }
+
+.projectDesc a {
+    font-size: 18px;
+    font-weight: 300;
+}
+
 
 .sidenav {
     height: 100%;
