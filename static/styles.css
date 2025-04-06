@@ -35,6 +35,7 @@ a {
 
 p {
     display: flex;
+    align-items: flex-start;
 }
 
 .header {
@@ -84,7 +85,6 @@ p {
     margin: 10px;
     font-size: 14px;
     font-weight: 400;
-    align-self: flex-end;
 }
 
 .sidenav {
