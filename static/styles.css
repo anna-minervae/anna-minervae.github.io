@@ -10,13 +10,12 @@ h1 {
     text-align: center;
     font-size: 80px;
     font-weight: 500;
-
-    margin-top: 25px;
     padding: 10px;
     width: auto;
 }
 
 .header {
+    margin-top: 50px;
     margin-right: 265px;
     margin-left: 15px;
 }
@@ -46,7 +45,6 @@ h1 {
 
     width: auto;
     height: auto;
-    margin-top: 25px;
     margin-left: 15px;
     margin-right: 265px;
     padding: 10px;
