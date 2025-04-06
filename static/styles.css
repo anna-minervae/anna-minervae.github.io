@@ -3,8 +3,7 @@ body {
 }
 
 h1 {
-    font-family: 'URW Chancery L', 'cursive';
-    font-style: oblique;
+    font-family: Georgia, Arial, sans-serif;
     color: whitesmoke;
     
     text-align: center;
@@ -18,7 +17,7 @@ h1 {
 
 .subtitle {
     color: rgba(245, 245, 245, 0.7);
-    font-family: Palatino, URW Palladio L, serif;
+    font-family: Garamond, Arial, sans-serif;
     
     text-align: center;
     font-size: 48px;
@@ -43,7 +42,7 @@ h1 {
 
 .social-link {
     color: rgba(0, 0, 0, 0.9);
-    font-family: Palatino, URW Palladio L, serif;
+    font-family: Garamond, Arial, sans-serif;
     
     text-align: left;
     font-size: 36px;
