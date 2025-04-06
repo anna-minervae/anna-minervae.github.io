@@ -1,1 +1,1 @@
-A website showcasing my current and past projects. Currently a work in progress.
+A website showcasing my current and past projects. Direct link: https://anna-minervae.github.io/
