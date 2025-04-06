@@ -1,5 +1,6 @@
 body {
-    background-image: url("background.png");
+    /*background-image: url("background.png");*/
+    background-color: rgb(48, 38, 58);
 }
 
 h1 {
@@ -40,7 +41,7 @@ h1 {
     border-radius: 5px;
 }
 
-.social-link {
+.main-section {
     color: rgba(0, 0, 0, 0.9);
     font-family: Garamond, Arial, sans-serif;
     
