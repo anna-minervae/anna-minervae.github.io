@@ -18,7 +18,7 @@ h1 {
 }
 
 .header {
-    margin-right: 210px;
+    margin-right: 215px;
 }
 
 .subtitle {
@@ -39,15 +39,16 @@ h1 {
     font-family: Garamond, Arial, sans-serif;
     
     text-align: left;
-    font-size: 36px;
+    font-size: 24px;
     font-weight: 500;
 
     background-color: rgba(255, 255, 255, 0.8);
 
     width: auto;
     height: auto;
-    margin: 10%;
-    margin-right: 210px;
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 215px;
     padding: 15px;
 
     border: 2px black solid;
@@ -73,6 +74,8 @@ a {
 
 .sidenav a {
     color: rgb(215, 179, 226);
-    margin: 10px;
-    margin-right: 20px;
+    margin-bottom: 18px;
+    margin-right: 50px;
+    font-size: 36px;
+    font-weight: 600;
 }
