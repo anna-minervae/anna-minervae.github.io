@@ -78,8 +78,11 @@ a {
     color: rgb(215, 179, 226);
     margin-left: 20px;
     margin-bottom: 18px;
-    margin-right: 50px;
+    margin-right: 20px;
     font-size: 36px;
     font-weight: 500;
     font-family: Arial, sans-serif;
+    text-decoration: none;
+    display: block;
+    text-align: left;
 }
