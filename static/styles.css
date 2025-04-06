@@ -86,7 +86,18 @@ a {
     color: rgb(237, 232, 239);
     text-decoration: none;
 }
+
+.sidenav a:visited {
+    color: rgb(237, 232, 239);
+    text-decoration: none;
+}
+
 .sidenav a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.sidenav a:active {
     color: rgb(255, 255, 255);
     text-decoration: underline;
 }
