@@ -75,14 +75,20 @@ a {
 }
 
 .sidenav a {
-    color: rgb(237, 232, 239);
     margin-left: 20px;
     margin-bottom: 18px;
     margin-right: 20px;
     font-size: 36px;
     font-weight: 500;
     font-family: Verdana, Arial, sans-serif;
-    text-decoration: none;
     display: block;
     text-align: left;
+}
+.sidenav a:link {
+    color: rgb(237, 232, 239);
+    text-decoration: none;
+}
+.sidenav a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
 }
