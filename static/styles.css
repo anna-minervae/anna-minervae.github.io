@@ -15,9 +15,7 @@ h1 {
 }
 
 .header {
-    margin-top: 50px;
-    margin-right: 265px;
-    margin-left: 15px;
+    margin: 50px 265px 0 15px;
 }
 
 .subtitle {
