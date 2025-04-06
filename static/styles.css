@@ -34,7 +34,7 @@ h1 {
 
 .main-section {
     color: rgba(0, 0, 0, 0.9);
-    font-family: Garamond, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     
     text-align: left;
     font-size: 24px;
@@ -46,7 +46,7 @@ h1 {
     height: auto;
     margin-left: 15px;
     margin-right: 265px;
-    padding: 10px;
+    padding: 15px;
 
     border: 2px black solid;
     border-radius: 5px;
@@ -62,10 +62,10 @@ a {
     height: 100%;
     width: 250px; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-    z-index: 1; /* Stay on top */
-    top: 0; /* Stay at the top */
+    z-index: 1;
+    top: 0;
     right: 0;
-    background-color: #141214; /* Black */
+    background-color: #141214;
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
     margin-left: 10%;
@@ -81,22 +81,12 @@ a {
     display: block;
     text-align: left;
 }
-.sidenav a:link {
+.sidenav a:link, .sidenav a:visited {
     color: rgb(237, 232, 239);
     text-decoration: none;
 }
 
-.sidenav a:visited {
-    color: rgb(237, 232, 239);
-    text-decoration: none;
-}
-
-.sidenav a:hover {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-
-.sidenav a:active {
+.sidenav a:hover, .sidenav a:active {
     color: rgb(255, 255, 255);
     text-decoration: underline;
 }
