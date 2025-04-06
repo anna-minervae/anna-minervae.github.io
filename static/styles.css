@@ -14,22 +14,28 @@ h1 {
     margin: 0 0 0 0;
 }
 
+h2 {
+    text-align: left;
+    font-size: 48px;
+    font-weight: 600;
+    padding: 10px;
+    margin: 0 0 0 0;
+}
+
+h3 {
+    text-align: left;
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0 0 0 0;
+}
+
+a {
+    color: rgb(132, 77, 149);
+}
+
 .header {
     margin: 50px 265px 0 15px;
     width: auto;
-}
-
-.subtitle {
-    color: rgba(245, 245, 245, 0.7);
-    font-family: Garamond, Arial, sans-serif;
-    
-    text-align: center;
-    font-size: 48px;
-    font-weight: 500;
-
-    margin: 5px;
-    margin-top: -15px;
-    padding: 1%;
 }
 
 .main-section {
@@ -55,8 +61,12 @@ h1 {
     overflow-x: hidden;
 }
 
-a {
-    color: rgb(132, 77, 149);
+.project {
+    width: auto;
+    height: auto;
+    margin: 15px;
+
+    overflow-x: hidden;
 }
 
 .sidenav {
