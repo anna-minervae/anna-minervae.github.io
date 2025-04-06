@@ -11,10 +11,9 @@ h1 {
     font-size: 72px;
     font-weight: 500;
 
-    margin: auto;
     margin-top: 1%;
     padding: 15px;
-    width: 100%;
+    width: auto;
 }
 
 .header {
