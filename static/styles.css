@@ -33,6 +33,10 @@ a {
     color: rgb(132, 77, 149);
 }
 
+p {
+    display: flex;
+}
+
 .header {
     margin: 50px 265px 0 15px;
     width: auto;
@@ -65,7 +69,7 @@ a {
     width: auto;
     height: auto;
     margin: 15px;
-
+    display: block;
     overflow-x: hidden;
 }
 
@@ -80,7 +84,7 @@ a {
     margin: 10px;
     font-size: 14px;
     font-weight: 400;
-    display: inline;
+    align-self: flex-end;
 }
 
 .sidenav {
