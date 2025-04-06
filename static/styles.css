@@ -17,7 +17,8 @@ h1 {
 }
 
 .header {
-    margin-right: 215px;
+    margin-right: 265px;
+    margin-left: 15px;
 }
 
 .subtitle {
@@ -47,7 +48,7 @@ h1 {
     height: auto;
     margin-top: 25px;
     margin-left: 15px;
-    margin-right: 215px;
+    margin-right: 265px;
     padding: 15px;
 
     border: 2px black solid;
@@ -62,7 +63,7 @@ a {
 
 .sidenav {
     height: 100%;
-    width: 200px; /* Set the width of the sidebar */
+    width: 250px; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
