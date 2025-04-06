@@ -42,7 +42,7 @@ h1 {
     font-size: 24px;
     font-weight: 500;
 
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(237, 232, 239, 1);
 
     width: auto;
     height: auto;
@@ -53,6 +53,8 @@ h1 {
 
     border: 2px black solid;
     border-radius: 5px;
+
+    overflow-x: hidden;
 }
 
 a {
@@ -74,6 +76,7 @@ a {
 
 .sidenav a {
     color: rgb(215, 179, 226);
+    margin-left: 20px;
     margin-bottom: 18px;
     margin-right: 50px;
     font-size: 36px;
