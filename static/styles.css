@@ -54,7 +54,7 @@ h1 {
     margin-top: -15px;
     padding: 1%;
     height: auto;
-    width: auto;
+    width: 90%;
 }
 
 a {
@@ -71,9 +71,11 @@ a {
     background-color: #141214; /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
+    margin-left: 10%;
 }
 
 .sidenav a {
     color: rgb(215, 179, 226);
     margin: 10px;
+    margin-right: 20px;
 }
