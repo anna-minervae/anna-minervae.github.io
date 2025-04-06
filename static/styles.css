@@ -17,6 +17,10 @@ h1 {
     width: 100%;
 }
 
+.header {
+    margin-right: 200px;
+}
+
 .subtitle {
     color: rgba(245, 245, 245, 0.7);
     font-family: Garamond, Arial, sans-serif;
@@ -30,18 +34,6 @@ h1 {
     padding: 1%;
 }
 
-#main {
-    background-color: rgba(255, 255, 255, 0.8);
-
-    width: auto;
-    height: auto;
-    margin: auto;
-    padding: 15px;
-
-    border: 2px black solid;
-    border-radius: 5px;
-}
-
 .main-section {
     color: rgba(0, 0, 0, 0.9);
     font-family: Garamond, Arial, sans-serif;
@@ -50,11 +42,16 @@ h1 {
     font-size: 36px;
     font-weight: 500;
 
-    margin: 5%;
-    margin-top: -15px;
-    padding: 1%;
+    background-color: rgba(255, 255, 255, 0.8);
+
+    width: auto;
     height: auto;
-    width: 90%;
+    margin: auto;
+    margin-right: 200px;
+    padding: 15px;
+
+    border: 2px black solid;
+    border-radius: 5px;
 }
 
 a {
