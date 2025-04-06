@@ -71,13 +71,16 @@ a {
 
 .projectImage {
     display: inline-block;
-    margin-left: 0;
+    position: relative;
+    left: 0;
+    margin: 10 10 10 0;
 }
 
 .projectDesc {
     margin: 10px;
     font-size: 14px;
     font-weight: 400;
+    display: inline;
 }
 
 .sidenav {
