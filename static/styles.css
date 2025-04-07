@@ -33,7 +33,7 @@ a {
     color: rgb(132, 77, 149);
 }
 
-p {
+.flexSection {
     display: flex;
     align-items: flex-start;
     margin: 5px 0 5px 0;
