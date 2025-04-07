@@ -84,12 +84,12 @@ p {
 
 .projectDesc {
     margin: 10px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 300;
 }
 
-.projectDesc a {
-    font-size: 18px;
+.project a {
+    font-size: 20px;
     font-weight: 300;
 }
 
