@@ -67,7 +67,7 @@ p {
     overflow-x: hidden;
 }
 
-.project {
+.subsection {
     width: auto;
     height: auto;
     margin: 15px;
@@ -75,20 +75,20 @@ p {
     overflow-x: hidden;
 }
 
-.projectImage {
+.subsectionImage {
     display: inline-block;
     position: relative;
     left: 0;
     margin: 10px 10px 10px 0;
 }
 
-.projectDesc {
+.subsectionDesc {
     margin: 10px;
     font-size: 20px;
     font-weight: 300;
 }
 
-.project a {
+.subsection a {
     font-size: 20px;
     font-weight: 300;
 }

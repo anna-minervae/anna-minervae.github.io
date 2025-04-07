@@ -1,1 +1,1 @@
-A website showcasing my current and past projects. Direct link: https://anna-minervae.github.io/
+A website showcasing my current and past subsections. Direct link: https://anna-minervae.github.io/
