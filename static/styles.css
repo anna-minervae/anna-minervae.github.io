@@ -33,6 +33,11 @@ a {
     color: rgb(132, 77, 149);
 }
 
+li {
+    align-self: flex-start;
+    font-size: 16px;
+}
+
 .flexSection {
     display: flex;
     align-items: flex-start;
