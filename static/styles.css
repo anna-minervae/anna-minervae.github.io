@@ -85,8 +85,10 @@ li {
     position: relative;
     left: 0;
     margin: 10px 10px 10px 0;
+    border: solid;
     border-width: 2px;
     border-color: rgb(203, 200, 205);
+    border-style: ridge;
 }
 
 .subsectionText {
