@@ -85,7 +85,7 @@ li {
     position: relative;
     left: 0;
     margin: 10px 10px 10px 0;
-    border: 2px;
+    border-width: 2px;
     border-color: rgb(203, 200, 205);
 }
 
