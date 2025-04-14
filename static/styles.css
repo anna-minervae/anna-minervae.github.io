@@ -4,8 +4,8 @@ body {
 }
 
 @font-face {
-    font-family: "Roboto", sans-serif;
-    src: url(static\robotovariablefont_wght.ttf);
+    font-family: "Roboto";
+    src: url(static\robotovariablefont_wght.ttf) format('truetype');
 }
 
 h1 {
