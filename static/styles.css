@@ -3,6 +3,14 @@ body {
     background-color: rgb(48, 38, 58);
 }
 
+
+.roboto-condensed-uniquifier {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 h1 {
     font-family: Georgia, Arial, sans-serif;
     color: whitesmoke;
