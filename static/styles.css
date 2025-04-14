@@ -85,7 +85,7 @@ li {
 .subsection {
     width: auto;
     height: auto;
-    margin: 15px;
+    margin: 0 15px 15px 15px;
     display: block;
     overflow-x: hidden;
 }
