@@ -5,7 +5,7 @@ body {
 
 @font-face {
     font-family: "Roboto";
-    src: url(static\robotovariablefont_wght.ttf) format('truetype');
+    src: url(robotovariablefont_wght.ttf) format('truetype');
 }
 
 h1 {
