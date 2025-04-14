@@ -8,6 +8,11 @@ body {
     src: url(robotovariablefont_wght.ttf) format('truetype');
 }
 
+@font-face {
+    font-family: "Merriweather";
+    src: url(merriweathervariable.ttf) format('truetype');
+}
+
 h1 {
     font-family: Georgia, Arial, sans-serif;
     color: whitesmoke;
